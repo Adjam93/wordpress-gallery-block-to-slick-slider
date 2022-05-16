@@ -1,4 +1,4 @@
-A WordPress plugin that creates a shortcode, which when added to the Gutenberg edtior alongside a gallery block, turns the gallery into a slick.js slider on the front-end.
+A WordPress plugin that creates a shortcode, which when added to the Gutenberg editor alongside a gallery block, turns the gallery into a slick.js slider on the front-end.
 
 The shortcode is named [slick-slider-gallery] and has two custom attributes:
 
